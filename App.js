@@ -48,7 +48,7 @@ export default class App extends React.Component {
             </Button>
           </Left>
           <Body>
-            <Title>Header</Title>
+            <Title>Tipster</Title>
           </Body>
           <Right />
         </Header>
@@ -57,7 +57,7 @@ export default class App extends React.Component {
         <Footer>
           <FooterTab>
             <Button full>
-              <Text>Footer</Text>
+              <Text>The Iron Yard</Text>
             </Button>
           </FooterTab>
         </Footer>
