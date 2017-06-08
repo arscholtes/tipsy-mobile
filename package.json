@@ -1,5 +1,5 @@
 {
-  "name": "tip-calculator-mobile",
+  "name": "tipsy-mobile",
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
@@ -20,9 +20,12 @@
   },
   "dependencies": {
     "@expo/vector-icons": "^5.0.0",
+    "currency-symbol-map": "^4.0.1",
     "expo": "^17.0.0",
     "native-base": "^2.1.4",
+    "ramda": "^0.24.1",
     "react": "16.0.0-alpha.6",
-    "react-native": "^0.44.0"
+    "react-native": "^0.44.0",
+    "tipsy": "aspidites/tipsy"
   }
 }
