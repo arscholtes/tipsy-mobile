@@ -9,5 +9,6 @@ following:
 - modern UI frameworks through the use of React-Native and React-Base
 - modern development work-flow through the use of Expo (including hot module
   reloading)
+
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
